@@ -2,10 +2,14 @@
 This is a project of a line follower robot for maze solving, using Arduino Uno, PID to control the track and algorithm to identify the options and choose one trajectory. 
 
 
-Hardware: Arduino Uno, 5 IR sensors, 2 DC motors, H bridge, Bluetooth module, connecting wires and power supply.
+### Hardware: 
+Arduino Uno, 5 IR sensors, 2 DC motors, H bridge, Bluetooth module, connecting wires and power supply.
+
+![Robot's photo](https://github.com/paulovbpo/maze_solving_robot/blob/master/foto_robo.png)
 
 
-Steps to build the robot:
+
+### Steps to build the robot:
 
 1) Assembly the physical components;
 
@@ -18,3 +22,6 @@ Steps to build the robot:
 5) Algorithm to measure each segment of line;
 
 6) Algorithm to know when achieve the target.
+
+
+![Robot's gif](https://github.com/paulovbpo/maze_solving_robot/blob/master/gif_robo.gif)
